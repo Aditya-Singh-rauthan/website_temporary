@@ -7,7 +7,7 @@ cffi==1.14.0
 chardet==3.0.4
 Click==7.0
 distlib==0.3.0
-Django==3.0.6
+Django==3.0.7
 dominate==2.5.1
 face-recognition-models==0.3.0
 filelock==3.0.12
